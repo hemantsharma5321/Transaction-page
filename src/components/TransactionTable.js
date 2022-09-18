@@ -16,7 +16,7 @@ const TransactionTable=(props)=>{
                         <span className="status-color"></span>
                     </th>
                 </tr>
-             <thead>
+             </thead>
             </table>
         </div>
     )
