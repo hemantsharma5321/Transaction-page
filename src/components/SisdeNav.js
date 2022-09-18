@@ -9,7 +9,7 @@ const SideNav=()=>{
 
             <div className="menu-list">
                 <ul>
-                    <li className="menu-item"><img src="\images\home.png"/> Home</li>
+                    <li className="menu-item"><img src="\images\home.png" alt=""/> Home</li>
                     <li className="menu-item">Deposits</li>
                     <li className="menu-item">Offers</li>
                     <li className="menu-item">Payments</li>
