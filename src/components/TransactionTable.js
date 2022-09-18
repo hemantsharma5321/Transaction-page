@@ -6,6 +6,7 @@ const TransactionTable=(props)=>{
             <button type="button" className="add-btn">+</button>
 
             <table>
+                <thead>
                 <tr>
                     <th>participents</th>
                     <th>MOVE IN DATE</th>
@@ -15,6 +16,7 @@ const TransactionTable=(props)=>{
                         <span className="status-color"></span>
                     </th>
                 </tr>
+             <thead>
             </table>
         </div>
     )
