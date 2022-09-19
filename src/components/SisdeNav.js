@@ -26,4 +26,4 @@ const SideNav=()=>{
         </div>
     )
 }
-export default SideNav;
+export default SideNav; 
